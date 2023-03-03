@@ -1,7 +1,7 @@
 # Java
 All of my Java Projects
 
-## FizzBuzz
+## 1.FizzBuzz
 
 ### About Project:
 
