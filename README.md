@@ -36,3 +36,9 @@ All of my Java Projects
 
 - To run the program, execute the Main.java file in the main folder.
 - The program will output the song lyrics, starting with 10 bottles down to one, and changing "bottles" to "bottle" when only one remains.
+
+___
+
+## 3. Phrase-O-Matic Project
+
+### About Project:
