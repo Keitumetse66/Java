@@ -16,3 +16,23 @@ All of my Java Projects
    - To run the program, simply execute the App.java file in the main folder.
   
    - The program will output the numbers from 1 to 100 with the FizzBuzz rules applied.
+
+***
+
+## 2. Ten Green Bottle Song
+
+### About Project:
+
+- This is a simple program that prints the lyrics of the "Ten Green Bottles" song, it consists of the following key components:
+
+      `bottleNum` represents the number of bottles initially set to 10
+      `word` represents the word form ("bottle" or "bottles").
+      The code uses a `while` loop for song verses.
+      It adjusts `word` based on bottle count.
+      Prints verses and updates bottle count.
+      Terminates when no bottles remain.
+
+### Usage 
+
+- To run the program, execute the Main.java file in the main folder.
+- The program will output the song lyrics, starting with 10 bottles down to one, and changing "bottles" to "bottle" when only one remains.
